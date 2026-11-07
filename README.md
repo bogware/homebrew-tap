@@ -1,7 +1,7 @@
 # Bogform Homebrew tap
 
 ```sh
-brew install bogware/tap/bogform
+brew install --cask bogware/tap/bogform
 ```
 
-Formulae here are published automatically by Bogform's release workflow. Don't edit them by hand.
+The cask here is published automatically by Bogform's release workflow, for stable releases. Don't edit it by hand.
